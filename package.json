@@ -1,7 +1,7 @@
 {
   "name": "gaishimo-cool-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A gaishimo UI theme for Atom",
   "license": "MIT",
   "repository": "gaishimo/atom-gaishimo-cool-ui",
