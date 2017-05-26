@@ -6,6 +6,6 @@
   "license": "MIT",
   "repository": "git@github.com:gaishimo/atom-gaishimo-cool-ui.git",
   "engines": {
-    {"atom": ">=1.0.0 <2.0.0"}
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
